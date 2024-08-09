@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+nicegui
+requests
+beautifulsoup4
